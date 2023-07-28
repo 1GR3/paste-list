@@ -1,0 +1,15 @@
+{
+  "name": "pastelistserver",
+  "version": "1.0.0",
+  "description": "server for the pastelist app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "1GR3",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
